@@ -4,7 +4,7 @@ Windows IP Configuration
 Ethernet adapter Ethernet:
 
    Connection-specific DNS Suffix  . :
-   IPv4 Address. . . . . . . . . . . : 10.23.0.139
+   IPv4 Address. . . . . . . . . . . : 999.999.999.9
    Subnet Mask . . . . . . . . . . . : 255.255.255.255
    Default Gateway . . . . . . . . . :
 
